@@ -1,5 +1,5 @@
 {
-  "id": "/nginx-mesosphere",
+  "id": "/frumpel-nginx-mesosphere",
   "cpus": 1,
   "mem": 128,
   "instances": 1,
