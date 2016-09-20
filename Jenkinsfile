@@ -30,7 +30,6 @@ node {
 
     // Deploy
     stage 'Deploy'
-
     marathon(
         url: 'http://marathon.mesos:8080',
         forceUpdate: false,
